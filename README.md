@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @caysonyin
 
-- 🌱 major in Artificial Intelligence
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
